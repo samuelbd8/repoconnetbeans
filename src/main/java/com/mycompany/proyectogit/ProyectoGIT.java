@@ -13,5 +13,5 @@ public class ProyectoGIT {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Esto es un cambio");
-    }
+    System.out.println("Esto es otro cambio");}
 }
